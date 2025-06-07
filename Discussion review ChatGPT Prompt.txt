@@ -1,0 +1,6 @@
+Discussion review ChatGPT Prompt:
+
+I have written the following discussion post for my Data Governance and Privacy course in my Master's of Data Science program: 
+
+
+Can you please review and score this out of 10 for correctness, logical reasoning, and grammar? I have also used the sources listed below, and I would like you to identify if they are cited correctly in the response.
